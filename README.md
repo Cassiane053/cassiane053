@@ -1,16 +1,52 @@
-## Hi there 👋
+👩🏻‍💻 Cassiane
+====================
+
+[](#-cassiane053)
+
+**`Analista de Sistemas e Desenvolvedora RPA`**
+
+Sou formada em Sistemas de Informação pela Unisociesc. Sou apaixonada por tecnologia e busco constante conhecimento de tecnologias e ferramentas. Gosto de desbravar novas áreas e habilidades, também.
 
 <!--
-**Cassiane053/cassiane053** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Seguidores](https://camo.githubusercontent.com/2f612f9a3385a8fb9d2f7400b06e76640d02c7dc8e4599f512b6e7599cbde0d2/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f6769746875622f666f6c6c6f776572732f4c6172697373616b6963683f636f6c6f723d323336616433266c6162656c436f6c6f723d313135356261267374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6162656c3d5365677569646f726573266c6f676f436f6c6f723d7768697465 "Me siga no GitHub")](https://github.com/Cassiane053?tab=followers) -->
 
-Here are some ideas to get you started:
+* * *
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+### 🤖 Linguagens e Tecnologias
+
+[](#-linguagens-e-tecnologias)
+[![C++](https://camo.githubusercontent.com/671ab7e3bb84b06718454c88a6f0d47100e314b47ed836393d890da32ef30d9f/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f432b2b2d3943303333412e7376673f6c6f676f3d63707032266c6f676f436f6c6f723d7768697465)](https://github.com/search?q=user%3ADenverCoder1+language%3Acpp)
+[![CSS](https://camo.githubusercontent.com/bfc16d4ca4ce30d08e55c0db6d978acda194c986b248807ce7463c6f5f46e6fb/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4353532d3135373242362e7376673f6c6f676f3d63737333266c6f676f436f6c6f723d7768697465)](https://github.com/search?q=user%3ADenverCoder1+language%3Acss) 
+[![HTML](https://camo.githubusercontent.com/d6efe8554e9d9e98ef68344b794a8aa5632e18c44e4b57cea490ac2ce0ba9471/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f48544d4c2d4533344632362e7376673f6c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465)](https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml) 
+[![Java](https://camo.githubusercontent.com/80d3269885ba2794689b43f192e98cf982de9460bf67ea993d99b5d64b533194/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f4a6176612d3030373339362e7376673f6c6f676f3d6a617661266c6f676f436f6c6f723d7768697465)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajava) 
+[![JavaScript](https://camo.githubusercontent.com/277d160259bb1a95090c8eb93da0c97eb034b13fea899d17f4d1dbee22c766e9/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4a6176615363726970742d4637444631452e7376673f6c6f676f3d6a617661736372697074266c6f676f436f6c6f723d626c61636b)](https://github.com/search?q=user%3ADenverCoder1+language%3Ajavascript) 
+[![Markdown](https://camo.githubusercontent.com/f8152fc1ed3d7641e171c9c68f406a5972816ca70d69a4c178861a63929059a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d61726b646f776e2d3030303030302e7376673f6c6f676f3d6d61726b646f776e266c6f676f436f6c6f723d7768697465)](https://github.com/search?q=user%3ADenverCoder1+language%3Amarkdown)
+[![SQL](https://camo.githubusercontent.com/24ae24700452e4ef07bcd3dd4319a59f94d5fde68e6294686c5bab5937393330/68747470733a2f2f637573746f6d2d69636f6e2d6261646765732e64656d6f6c61622e636f6d2f62616467652f53514c2d3032354538432e7376673f6c6f676f3d6461746162617365266c6f676f436f6c6f723d7768697465)](https://github.com/search?q=user%3ADenverCoder1+language%3Asql)
+
+
+### 🛠️ Ferramentas e Softwares
+
+[![Git](https://camo.githubusercontent.com/0f8c911518d16c2430daeb2310bc7ed83e287092e34882ee65adbaef3e16d0a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033332e7376673f6c6f676f3d676974266c6f676f436f6c6f723d7768697465)](#) 
+[![GitHub Desktop](https://camo.githubusercontent.com/7d145fba3cfbeee44535dd2c4233ad923d0a5eaf40e17d524d3f0e6f18280bef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769744875622532304465736b746f702d3830333441392e7376673f6c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)](#)
+[![Google Sheets](https://camo.githubusercontent.com/10cdf0b168cc92b686dcf304270dbf77ba632d4b3a0869a0b2f8dc23bdf2c988/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5368656574732d3334413835332e7376673f6c6f676f3d676f6f676c65253230736865657473266c6f676f436f6c6f723d7768697465)](#)
+[![Postman](https://camo.githubusercontent.com/281f18eec4c8ce80bc4c4319513b3c569939947440cf472b27f7ffc5cfaeeca0/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f73746d616e2d4646364333373f6c6f676f3d706f73746d616e266c6f676f436f6c6f723d7768697465)](#)
+[![Visual Studio Code](https://camo.githubusercontent.com/a7fdd18d0c86774cebaf53dcb28fe9e42fbb6c26e5f9c56b0af5adc48d65125f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465)](#)  
+
+<!-- 
+### 📊 Estatísticas
+
+[](#-estatísticas)
+![Cassiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=cassiane053&show_icons=true&theme=cobalt)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cassiane053&theme=cobalt)
 -->
+
+* * *
+
+### 📚 Conteúdos Deste Espaço
+
+- Desenvolvimentos realizados com RPA (ferramentas AutomationEdge e Power Automate)
+- Documentações Técnicas de automações e outras ferramentas
+
+
+
