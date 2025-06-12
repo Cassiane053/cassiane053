@@ -5,7 +5,8 @@
 
 **`Analista de Suporte e Sistemas | User Experience | Tech Writer`**
 
-Sou formada em Sistemas de Informação pela Unisociesc. Sou apaixonada por tecnologia e busco constante conhecimento de novas tecnologias e ferramentas.
+Sou Bacharel em Sistemas de Informação, cursando Pós-graduação em User Experience pela Unisociesc. 
+Sou apaixonada por tecnologia e busco constante conhecimento de novas tecnologias e ferramentas.
 Gosto de desbravar novas áreas, linguagens e habilidades.
 
 <!--
