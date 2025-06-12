@@ -3,7 +3,7 @@
 
 [](#-cassiane053)
 
-**`Analista de Sistemas e Desenvolvedora RPA`**
+**`Analista de Suporte e Sistemas | User Experience | Tech Writer`**
 
 Sou formada em Sistemas de Informação pela Unisociesc. Sou apaixonada por tecnologia e busco constante conhecimento de novas tecnologias e ferramentas.
 Gosto de desbravar novas áreas, linguagens e habilidades.
